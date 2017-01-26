@@ -1,0 +1,6 @@
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/TestWSServer.java
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/HpoWSServer.java
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/ClinicalWSServer.java
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/GoWSServer.java
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/BioDBWSServer.java
+/home/mmedina/projects/biodb/biodb-server/src/main/java/org/babelomics/biodb/server/TissueWSServer.java

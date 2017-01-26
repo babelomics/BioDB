@@ -1,0 +1,10 @@
+org/babelomics/biodb/lib/ws/ObjectMap.class
+org/babelomics/biodb/lib/models/Clinical.class
+org/babelomics/biodb/lib/models/Gene.class
+org/babelomics/biodb/lib/models/Go.class
+org/babelomics/biodb/lib/ws/QueryResponse.class
+org/babelomics/biodb/lib/models/Hpo.class
+org/babelomics/biodb/lib/ws/QueryResult.class
+org/babelomics/biodb/lib/io/BioDBQueryManager.class
+org/babelomics/biodb/lib/ws/QueryResponse$Error.class
+org/babelomics/biodb/lib/models/Tissue.class
