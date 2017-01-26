@@ -1,0 +1,6 @@
+org/babelomics/biodb/server/GoWSServer.class
+org/babelomics/biodb/server/ClinicalWSServer.class
+org/babelomics/biodb/server/TissueWSServer.class
+org/babelomics/biodb/server/BioDBWSServer.class
+org/babelomics/biodb/server/TestWSServer.class
+org/babelomics/biodb/server/HpoWSServer.class

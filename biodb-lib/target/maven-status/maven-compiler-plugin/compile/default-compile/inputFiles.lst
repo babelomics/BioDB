@@ -1,0 +1,9 @@
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/models/Hpo.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/models/Tissue.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/ws/QueryResult.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/models/Gene.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/ws/ObjectMap.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/models/Go.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/ws/QueryResponse.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/models/Clinical.java
+/home/mmedina/projects/biodb/biodb-lib/src/main/java/org/babelomics/biodb/lib/io/BioDBQueryManager.java
